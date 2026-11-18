@@ -1,7 +1,7 @@
 {
   "name": "dsh-plugin-sidebar-categories",
   "version": "0.1.0",
-  "description": "将左侧导航按工作、管理、开发分类，支持自行归类。",
+  "description": "将左侧导航按工作、个人、开发分类，支持自行归类。",
   "type": "module",
   "license": "MIT",
   "engines": {
